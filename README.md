@@ -39,8 +39,8 @@ After inserting all the variables, salary_calculator_function function calculate
 
 Sample output:
 
-      **Zafarbek salary: 254400
-      Otabek salary: 244800**
+      Zafarbek salary: 254400
+      Otabek salary: 244800
       
 # Working principle of the function
 a) Declaring variables inside function's scope:
