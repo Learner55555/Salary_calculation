@@ -4,7 +4,7 @@
 This project is created to calculate the salary of the workers based on their performance.
 
 # Input variables
-# Workers' personal infrmation*
+Workers' personal infrmation
 List of dictionaries is used to store personal information. This information is saved in name_lists.
 
 1) Worker name
@@ -16,7 +16,7 @@ List of dictionaries is used to store personal information. This information is 
 Sample output: [{'name': 'Zafarbek', 'surname': 'Tolipov', 'patronmic': 'Excellency', 'id_number': 89}, {'name': 'Otabek', 'surname': 'Polishev', 'patronmic': "Polishev's son", 'id_number': 56}]
 
 
-**Work name, Work information**
+# Work name, Work information
 List of lists is used to store job name and its cost. This information is saved in outer_cost_list.
 
 1) Work name
