@@ -43,6 +43,6 @@ Sample output:
       
 # Working principle of the function
 Declaring variables inside function's scope:
-            1) w = 0
-            2) general_work_salary = 0
+      1) w = 0
+      2) general_work_salary = 0
 
