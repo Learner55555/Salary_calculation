@@ -4,7 +4,7 @@
 This project is created to calculate the salary of the workers based on their performance.
 
 # Input variables
-**Workers' personal infrmation**
+*Workers' personal infrmation*
 List of dictionaries is used to store personal information. This information is saved in name_lists.
 
 1) Worker name
