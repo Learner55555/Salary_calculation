@@ -33,7 +33,6 @@ List of lists is used to worker id, done work name and how many times the work w
 
 Sample output: general_list=[[56, 'Pol yuvish', 5, 'Kir yuvish', 9], [89, 'Pol yuvish', 6, 'Kir yuvish', 8]]
 
-
 # Output variables
 After inserting all the variables, salary_calculator_function function calculates the salary.
 
@@ -41,3 +40,6 @@ Sample output:
 
       Zafarbek salary: 254400
       Otabek salary: 244800
+      
+# Working principle of the function
+
