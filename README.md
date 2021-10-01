@@ -1,7 +1,11 @@
 # # Salary calculation based on the performance
 
+
 # Project purpose
 This project is created to calculate the salary of the workers based on their performance.
+
+# # Programming language of the project
+Programming language is python.
 
 # Input variables
 a) **Workers' personal infrmation**: 
