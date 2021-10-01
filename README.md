@@ -24,7 +24,7 @@ List of lists is used to store job name and its cost. This information is saved 
 
 Sample output: outer_cost_list = [['Pol yuvish', 500], ['Kir yuvish', 900]]
 
-b) **Worker id, Name of the work done, How many times**: 
+c) **Worker id, Name of the work done, How many times**: 
 List of lists is used to worker id, done work name and how many times the work was done. This information is saved in general_list.
 
 1) Worker id
@@ -42,8 +42,10 @@ Sample output:
       Otabek salary: 244800
       
 # Working principle of the function
-Declaring variables inside function's scope:
+a) Declaring variables inside function's scope:
 
       1) w = 0
       2) general_work_salary = 0
+      
+b) Opening the 'for' loop to iterate over the list
 
