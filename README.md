@@ -39,4 +39,5 @@ After inserting all the variables, salary_calculator_function function calculate
 
 Sample output:  
 Zafarbek salary: 254400
+
 Otabek salary: 244800
