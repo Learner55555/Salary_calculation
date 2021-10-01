@@ -41,12 +41,5 @@ Sample output:
 
       Zafarbek salary: 254400
       Otabek salary: 244800
-      
-# Working principle of the function
-a) Declaring variables inside function's scope:
 
-      1) w = 0
-      2) general_work_salary = 0
-      
-b) Opening the 'for' loop to iterate over the list
 
