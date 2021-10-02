@@ -4,7 +4,7 @@
 # Project purpose
 This project is created to calculate the salary of the workers based on their performance.
 
-# # Programming language of the project
+# Programming language of the project
 Python.
 
 # Input variables
