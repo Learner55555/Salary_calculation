@@ -29,7 +29,7 @@ List of lists is used to store job name and its cost. This information is saved 
     outer_cost_list = [['Pol yuvish', 500], ['Kir yuvish', 900]]**
 
 c) **Worker id, Name of the work done, How many times**: 
-List of lists is used to worker id, done work name and how many times the work was done. This information is saved in general_list.
+List of lists is used to store worker id, done work name and how many times the work was done. This information is saved in general_list.
 
 1) Worker id
 2) Name of the work done by the worker
