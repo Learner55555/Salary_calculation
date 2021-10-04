@@ -56,7 +56,7 @@ while(flag.lower() != "n" or flag.upper() != "N"):
     flag2='Y'
     i = 1
     while(flag2.lower() != "n" or flag2.upper() != "N"):
-        inner_list.append(input("Enter job: "))
+        inner_list.append(input("Enter job a worker did a day: "))
         inner_list.append(int(input("Enter times: ")))
         flag2 = input("Is there any done for this worker Y/N: ")
     general_list.append(inner_list)
